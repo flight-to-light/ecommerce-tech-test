@@ -1,4 +1,4 @@
-import type { Product } from '@commerce/types/product'
+import type { Product } from 'https://fakestoreapi.com/products'
 export type SelectedOptions = Record<string, string | null>
 import { Dispatch, SetStateAction } from 'react'
 
